@@ -7,8 +7,8 @@
     <ProjectGuid>{9C38E78D-6F2B-4C76-B31F-CC8971B9B64F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PolyanskyLibraryLib</RootNamespace>
-    <AssemblyName>PolyanskyLibraryLib</AssemblyName>
+    <RootNamespace>LibraryLib</RootNamespace>
+    <AssemblyName>LibraryLib</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
