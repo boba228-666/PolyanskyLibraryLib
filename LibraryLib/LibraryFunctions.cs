@@ -5,7 +5,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PolyanskyLibraryLib
+namespace LibraryLib
 {
     public class LibraryFunctions
     {
